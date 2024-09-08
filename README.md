@@ -94,7 +94,7 @@ MIT License. Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 ## Kontak
 
-Jika Anda memiliki pertanyaan atau umpan balik, silakan hubungi saya di [email@example.com](mailto:bagussajiwoutomo12@gmail.com).
+Jika Anda memiliki pertanyaan atau umpan balik, silakan hubungi saya di [bagussajiwoutomo12@gmail.com](mailto:bagussajiwoutomo12@gmail.com).
 
 ```
 
