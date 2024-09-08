@@ -95,7 +95,3 @@ MIT License. Lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
 ## Kontak
 
 Jika Anda memiliki pertanyaan atau umpan balik, silakan hubungi saya di [bagussajiwoutomo12@gmail.com](mailto:bagussajiwoutomo12@gmail.com).
-
-```
-
-Anda dapat menyesuaikan bagian seperti URL repository, email, dan informasi lainnya sesuai kebutuhan. Jika ada detail tambahan atau perubahan yang diperlukan, jangan ragu untuk menambahkannya!
